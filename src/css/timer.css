@@ -1,0 +1,14 @@
+input {
+  margin-left: 20px;
+}
+.timer {
+  display: flex;
+}
+.field {
+  margin: 0 10px;
+}
+.value {
+  display: block;
+  text-align: center;
+  font-size: 30px;
+}
